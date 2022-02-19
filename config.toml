@@ -7,6 +7,8 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 
+publishDir = "docs"
+
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
